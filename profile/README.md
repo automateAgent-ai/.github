@@ -1,6 +1,10 @@
 <div align="center">
 
-<!-- Logo will go here once provided -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/automateAgent-ai/.github/main/assets/logo-white.png">
+  <img src="https://raw.githubusercontent.com/automateAgent-ai/.github/main/assets/logo.png" alt="automateAgent" height="72" />
+</picture>
+
 <h1>automateAgent</h1>
 
 **You direct. automateAgent builds.**
