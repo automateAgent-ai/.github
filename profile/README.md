@@ -58,7 +58,7 @@ YOU                          AI TEAM                    OUTPUT
 | CDO | What to measure |
 | CXO | Will customers love it |
 | COO | Can we operate this |
-| CRO | Do we have the people |
+| CRO | Do we have the Agents |
 | CSO | Is this the right bet |
 | CISO | Are we secure |
 | CAIO | Where AI creates leverage |
