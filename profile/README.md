@@ -9,7 +9,7 @@
 
 **You direct. automateAgent builds.**
 
-An AI executive team for founders who want to build without needing to code.<br/>
+An AI executive team for founders who want to build.<br/>
 Describe your idea. Your C-Suite analyzes it. Engineers ship it.
 
 [![GitHub Stars](https://img.shields.io/github/stars/automateagent-ai/automateAgent?style=flat-square&color=FFD700&label=Stars)](https://github.com/automateagent-ai/automateAgent)
